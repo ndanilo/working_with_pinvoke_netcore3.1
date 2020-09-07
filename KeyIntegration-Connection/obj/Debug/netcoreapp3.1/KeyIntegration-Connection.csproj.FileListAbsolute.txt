@@ -1,0 +1,16 @@
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\KeyIntegration-Connection.exe
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\KeyIntegration-Connection.deps.json
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\KeyIntegration-Connection.runtimeconfig.json
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\KeyIntegration-Connection.runtimeconfig.dev.json
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\KeyIntegration-Connection.dll
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\KeyIntegration-Connection.pdb
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\obj\Debug\netcoreapp3.1\KeyIntegration-Connection.csprojAssemblyReference.cache
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\obj\Debug\netcoreapp3.1\KeyIntegration-Connection.csproj.CoreCompileInputs.cache
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\obj\Debug\netcoreapp3.1\KeyIntegration-Connection.AssemblyInfoInputs.cache
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\obj\Debug\netcoreapp3.1\KeyIntegration-Connection.AssemblyInfo.cs
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\obj\Debug\netcoreapp3.1\KeyIntegration-Connection.dll
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\obj\Debug\netcoreapp3.1\KeyIntegration-Connection.pdb
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\obj\Debug\netcoreapp3.1\KeyIntegration-Connection.genruntimeconfig.cache
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\lib\orbita\CLock.dll
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\lib\orbita\DLLSample.dll
+C:\Projetos\KeyIntegration-Connection\KeyIntegration-Connection\bin\Debug\netcoreapp3.1\lib\orbita\dcrf32.dll
